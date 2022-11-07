@@ -1,0 +1,13 @@
+/* @media screen and (max-width: 425px) {
+	.w320px ,
+	.w375px ,
+	.w425px {
+		background-color: rgb(255, 153, 0);
+	}
+} */
+
+.w320px,
+.w375px,
+.w425px {
+	background-color: rgb(255, 153, 0);
+}

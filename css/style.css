@@ -1,0 +1,35 @@
+html,
+body {
+	width: 100%;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul {
+	list-style-type: none;
+  padding: 0px;
+}
+li {
+	background-color: rgb(141, 236, 236);
+	height: 50px;
+	margin-bottom: 10px;
+}
+.w320px {
+	width: 320px;
+}
+.w375px {
+	width: 375px;
+}
+.w425px {
+	width: 425px;
+}
+.w768px {
+	width: 768px;
+}
+.w1024px {
+	width: 1024px;
+}
+.w1440px {
+	width: 1440px;
+}
+.w2560px {
+	width: 2560px;
+}
